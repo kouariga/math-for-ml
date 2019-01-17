@@ -1,5 +1,5 @@
-# math-for-ml
-Review materials of basic mathematics that is prerequisites for studying machine learning.
+# Math for Machine Learning
+Review materials for basic mathematics used in machine learning. It also serves as a general introduction to Python scientific packages such as `numpy` and `sklearn`.
 
-Topics that are currently covered include:
+Topics that are currently covered are the following.
 1. Linear algebra
