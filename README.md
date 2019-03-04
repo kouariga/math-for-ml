@@ -3,3 +3,4 @@ Review materials for basic mathematics used in machine learning. They also serve
 
 Topics that are currently covered are the following.
 1. Linear Algebra
+2. Multivariate Calculus Operators
